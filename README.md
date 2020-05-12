@@ -57,3 +57,8 @@ Planets:
 - Planets revolve around themselves.
 - If the main ship hit them, your score will set 0.
 
+# Example
+![a](https://user-images.githubusercontent.com/36198409/81699149-a0e71180-946f-11ea-9f3b-565d20bf7c77.PNG)
+![b](https://user-images.githubusercontent.com/36198409/81699170-a6dcf280-946f-11ea-8a31-e3e72c42c77f.PNG)
+![c](https://user-images.githubusercontent.com/36198409/81699175-a7758900-946f-11ea-914e-d872275ffe5b.PNG)
+
